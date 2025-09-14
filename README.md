@@ -1,2 +1,3 @@
-# -b-
+# SetBiliBilivideoToPrivate
+这是我第一个小项目，record
 用的xpath一点点扣出来，然后用selenium一点点去点，很笨拙
